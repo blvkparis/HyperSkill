@@ -2,6 +2,9 @@ package com.company;
 
 import java.util.Scanner;
 
+/** @author - blvkparis
+ *
+ */
 public class CollatzConjecture {
     public static void task() {
         Scanner scanner = new Scanner(System.in);

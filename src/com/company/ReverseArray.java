@@ -1,5 +1,8 @@
 package com.company;
 
+/** @author - blvkparis
+ *
+ */
 public class ReverseArray {
     public static int[] reverseArray(int[] a) {
         int[] b = new int[a.length];

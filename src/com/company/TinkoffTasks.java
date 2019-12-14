@@ -4,6 +4,9 @@ import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.Scanner;
 
+/** @author - blvkparis
+ *
+ */
 public class TinkoffTasks {
     public static void task4() {
         Scanner scanner = new Scanner(System.in);
